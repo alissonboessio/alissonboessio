@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonboessio)](https://github.com/alissonboessio/github-readme-stats)
+[![Anurag's GitHub stats](https://stats-private.vercel.app/api?username=alissonboessio)](https://github.com/alissonboessio/stats-private)
